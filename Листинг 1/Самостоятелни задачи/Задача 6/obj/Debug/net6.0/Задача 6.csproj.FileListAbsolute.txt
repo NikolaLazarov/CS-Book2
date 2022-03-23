@@ -1,0 +1,15 @@
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\bin\Debug\net6.0\Задача 6.exe
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\bin\Debug\net6.0\Задача 6.deps.json
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\bin\Debug\net6.0\Задача 6.runtimeconfig.json
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\bin\Debug\net6.0\Задача 6.dll
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\bin\Debug\net6.0\Задача 6.pdb
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\obj\Debug\net6.0\Задача 6.csproj.AssemblyReference.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\obj\Debug\net6.0\Задача 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\obj\Debug\net6.0\Задача 6.AssemblyInfoInputs.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\obj\Debug\net6.0\Задача 6.AssemblyInfo.cs
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\obj\Debug\net6.0\Задача 6.csproj.CoreCompileInputs.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\obj\Debug\net6.0\Задача 6.dll
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\obj\Debug\net6.0\refint\Задача 6.dll
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\obj\Debug\net6.0\Задача 6.pdb
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\obj\Debug\net6.0\Задача 6.genruntimeconfig.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 1\Самостоятелни задачи\Задача 6\obj\Debug\net6.0\ref\Задача 6.dll
