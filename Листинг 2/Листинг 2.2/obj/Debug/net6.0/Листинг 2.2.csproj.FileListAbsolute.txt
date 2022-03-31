@@ -1,0 +1,15 @@
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\bin\Debug\net6.0\Листинг 2.2.exe
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\bin\Debug\net6.0\Листинг 2.2.deps.json
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\bin\Debug\net6.0\Листинг 2.2.runtimeconfig.json
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\bin\Debug\net6.0\Листинг 2.2.dll
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\bin\Debug\net6.0\Листинг 2.2.pdb
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\obj\Debug\net6.0\Листинг 2.2.csproj.AssemblyReference.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\obj\Debug\net6.0\Листинг 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\obj\Debug\net6.0\Листинг 2.2.AssemblyInfoInputs.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\obj\Debug\net6.0\Листинг 2.2.AssemblyInfo.cs
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\obj\Debug\net6.0\Листинг 2.2.csproj.CoreCompileInputs.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\obj\Debug\net6.0\Листинг 2.2.dll
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\obj\Debug\net6.0\refint\Листинг 2.2.dll
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\obj\Debug\net6.0\Листинг 2.2.pdb
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\obj\Debug\net6.0\Листинг 2.2.genruntimeconfig.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 2\Листинг 2.2\obj\Debug\net6.0\ref\Листинг 2.2.dll
