@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Листинг 2.9/1.0.0": {
+        "runtime": {
+          "Листинг 2.9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Листинг 2.9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
