@@ -1,4 +1,4 @@
-﻿using static System.Console;
+using static System.Console;
 delegate void myDelegate(char s);
 class myClass{
     public char symbol;
@@ -11,14 +11,13 @@ public class Program
     public static void Main(string[] args)
     {
         myClass[] objs = new myClass[3];
-        myDelegate[] delegates = new myDelegate[3];
-        for(int i = 0; i < objs.Length; i++){
-            Random rnd = new Random();
-            delegates[i] = objs[i].set;
-            delegates[i]((char)rnd.Next(65,91));
+        myDelegate md = objs[0].set;
+        for(int i = 1; i < objs.Length; i++){
+            md += objs[i].set;
         }
+        md('A');
         for(int i = 0; i < objs.Length; i++){
-            WriteLine(delegates[i]);
+            WriteLine(objs[i].symbol);
         }
         
         WriteLine("Press any key to close...");
