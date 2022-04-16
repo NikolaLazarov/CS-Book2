@@ -11,6 +11,11 @@ public class Program
     public static void Main(string[] args)
     {
         myClass[] objs = new myClass[3];
+        int j = 0;
+        while(j<3){
+            objs[j] = new myClass();
+            j++;
+        }
         myDelegate md = objs[0].set;
         for(int i = 1; i < objs.Length; i++){
             md += objs[i].set;
