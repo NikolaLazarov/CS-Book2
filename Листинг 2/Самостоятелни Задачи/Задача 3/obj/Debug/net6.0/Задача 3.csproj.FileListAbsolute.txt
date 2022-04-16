@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\bin\Debug\net6.0\Задача 3.exe
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\bin\Debug\net6.0\Задача 3.deps.json
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\bin\Debug\net6.0\Задача 3.runtimeconfig.json
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\bin\Debug\net6.0\Задача 3.dll
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\bin\Debug\net6.0\Задача 3.pdb
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\obj\Debug\net6.0\Задача 3.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\obj\Debug\net6.0\Задача 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\obj\Debug\net6.0\Задача 3.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\obj\Debug\net6.0\Задача 3.AssemblyInfo.cs
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\obj\Debug\net6.0\Задача 3.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\obj\Debug\net6.0\Задача 3.dll
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\obj\Debug\net6.0\refint\Задача 3.dll
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\obj\Debug\net6.0\Задача 3.pdb
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\obj\Debug\net6.0\Задача 3.genruntimeconfig.cache
+C:\Users\nikol\Desktop\folders\c#2\sz\Задача 3\obj\Debug\net6.0\ref\Задача 3.dll
