@@ -1,4 +1,4 @@
-﻿using static System.Console;
+using static System.Console;
 delegate void myDelegate(string txt);
 class myClass
 {
@@ -43,13 +43,10 @@ public class Program
         Alpha A = new Alpha("A");
         Alpha B = new Alpha("B");
 
-        obj.myEvent += A.show;
-        obj.evoke("Cooler");
-        WriteLine();
-
-        obj.myEvent += B.show;
-        obj.evoke("Radiator");
-        WriteLine();
+        myDelegate md = A.show;
+        md += B.show;
+        obj.myEvent += md;
+        obj.evoke("Lifting straps");
 
         WriteLine("Press any key to close...");
         ReadKey(true);
