@@ -1,4 +1,4 @@
-﻿using static System.Console;
+using static System.Console;
 enum weekdays { Mon, Tue, Wed, Thu, Fri, Sat, Sun };
 public class Program
 {
@@ -9,7 +9,14 @@ public class Program
     }
     static void day(int a, int b)
     {
-        WriteLine(b - a - 1);
+        if (a < b)
+        {
+            WriteLine(b - a);
+        }
+        else
+        {
+            WriteLine(7 - b + a);
+        }
     }
     public static void Main(string[] args)
     {
@@ -20,7 +27,7 @@ public class Program
         }
         WriteLine();
         day(1, 5);
-        day(6, 7);
+        day(7, 4);
 
         WriteLine("Press any key to close...");
         ReadKey(true);
