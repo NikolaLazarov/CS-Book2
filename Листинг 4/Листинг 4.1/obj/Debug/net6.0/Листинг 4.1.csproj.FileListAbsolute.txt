@@ -1,0 +1,15 @@
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\obj\Debug\net6.0\Листинг 4.1.csproj.AssemblyReference.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\obj\Debug\net6.0\Листинг 4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\obj\Debug\net6.0\Листинг 4.1.AssemblyInfoInputs.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\obj\Debug\net6.0\Листинг 4.1.AssemblyInfo.cs
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\obj\Debug\net6.0\Листинг 4.1.csproj.CoreCompileInputs.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\bin\Debug\net6.0\Листинг 4.1.exe
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\bin\Debug\net6.0\Листинг 4.1.deps.json
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\bin\Debug\net6.0\Листинг 4.1.runtimeconfig.json
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\bin\Debug\net6.0\Листинг 4.1.dll
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\bin\Debug\net6.0\Листинг 4.1.pdb
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\obj\Debug\net6.0\Листинг 4.1.dll
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\obj\Debug\net6.0\refint\Листинг 4.1.dll
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\obj\Debug\net6.0\Листинг 4.1.pdb
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\obj\Debug\net6.0\Листинг 4.1.genruntimeconfig.cache
+C:\Users\Lemocakes\Desktop\Folders\C# разширени възможности\Листинг 4\Листинг 4.1\obj\Debug\net6.0\ref\Листинг 4.1.dll
