@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>Листинг_4._2</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
