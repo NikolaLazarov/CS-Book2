@@ -12,7 +12,7 @@ public class Program
         for(int i = 3; i < 7; i++){
             var1[i] = 2;
         }
-        for(int i = 0; i < 8; i++){
+        for(int i = 0; i < sizeof(double); i++){
             Write("|"+(uint)var1[i]);
         }
         WriteLine("|");
