@@ -1,4 +1,4 @@
-﻿using static System.Console;
+using static System.Console;
 class Program
 {
     static void Main(string[] args)
@@ -8,7 +8,7 @@ class Program
         colors[1] = ConsoleColor.Red;
         colors[2] = ConsoleColor.Green;
         Random rnd = new Random();
-        char[,] char_array = new char[10, 10];
+        char[,] char_array = new char[3, 4];
         Thread[] row_threads = new Thread[char_array.GetLength(0)];
         for (int n = 0; n < row_threads.Length; n++)
         {
@@ -22,8 +22,10 @@ class Program
                     }
                 }
             });
-            row_threads[n].Start();
         }
+        row_threads[0].Start();
+        row_threads[1].Start();
+        row_threads[2].Start();
 
         for (int i = 0; i < char_array.GetLength(0); i++)
         {
